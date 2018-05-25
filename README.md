@@ -23,6 +23,6 @@ AppleScript 上传测试包到蒲公英 https://www.pgyer.com/
 
 # 了解更多
 
-    苹果帮助文档 [AppleScript Help](https://help.apple.com/applescript/mac/10.9/)
+苹果帮助文档 [AppleScript Help](https://help.apple.com/applescript/mac/10.9/)
 
-    蒲公英 [API 文档](https://www.pgyer.com/doc/api)
+蒲公英 [API 文档](https://www.pgyer.com/doc/api)
