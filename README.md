@@ -20,6 +20,16 @@ AppleScript 上传测试包到蒲公英 https://www.pgyer.com/
 输入访问密码。如不需要设置密码，可参考 AppleScript 和蒲公英 API 文档，适当修改。
 ![输入访问密码](https://github.com/0xa6a/pgyer_uploader/blob/master/screenshots/03.png?raw=true)
 
+# 保存为 Application
+
+1. File->Export
+
+![export](https://github.com/0xa6a/pgyer_uploader/blob/master/screenshots/export.png?raw=true)
+
+2. Save As
+
+![save as](https://github.com/0xa6a/pgyer_uploader/blob/master/screenshots/save-as-application.png?raw=true)
+
 
 # 了解更多
 
